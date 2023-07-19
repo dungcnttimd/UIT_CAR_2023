@@ -79,6 +79,7 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/dung.caophantien.9)
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/linkin.png">](https://www.linkedin.com/in/caophantiendung8/)
+
 *
     - Youtube channel
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCcGFgzsdLvnejZKDTkGk-EA)
