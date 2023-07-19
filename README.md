@@ -75,7 +75,7 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
 
 ## Authors
 * **Cao Phan Tien Dung** - *Develope and Operation* - [dungcnttimd](https://github.com/dungcnttimd)
--Contact me
+* - Contact me
 
 * **Ly Hong Phong** - *Develope and Operation* - [phonghongs](https://github.com/phonghongs)
   
