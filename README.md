@@ -1,4 +1,4 @@
-# Phần mềm mô phỏng xe tự hành - UIT_CAR_RACING - UNITY
+# Phần mềm mô phỏng xe tự hành - UIT_CAR_RACING 2023 - UNITY 
 
 Phầm mềm được sử dụng chính thức trong cuộc thi UIT CAR RACING - 2023
 Thông tin cuộc thi: [here](https://ceday.uit.edu.vn/uit-car-racing/)
