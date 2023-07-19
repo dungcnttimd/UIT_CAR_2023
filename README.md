@@ -78,7 +78,11 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
     - Contact me helper:
 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/dung.caophantien.9)
-[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/gmail.png">](dungcnttimd@gmail.com)
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/gmail.png">]()
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/linkin.png">](https://www.linkedin.com/in/caophantiendung8/)
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/schoolmail.png">]()
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCcGFgzsdLvnejZKDTkGk-EA)
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCojD5EOql0uo1dtbMkG8hrg)
 * **Chu Thanh Nhan** - *Develope and Operation* - [chequanghuy](https://github.com/nhanuit02)
     - Contact me helper:
     - 
