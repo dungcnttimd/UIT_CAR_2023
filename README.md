@@ -78,19 +78,18 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
 
 ## Authors
 * **Cao Phan Tien Dung** - *Develope and Operation* - [dungcnttimd](https://github.com/dungcnttimd)
-    - Contact me helper:
-    -     dungcnttimd@gmail.com
-    -     19521387@gm.uit.edu.vn
-* **Chu Thanh Nhan** - *Develope and Operation* - [thanhnhan](https://github.com/nhanuit02)
-    - Contact me helper:
-    -     20520665@gm.uit.edu.com
-* **Ly Hong Phong** - *Develope and Operation* - [phonghongs](https://github.com/phonghongs)
-
-* **Che Quang Huy** - *Operation* - [chequanghuy](https://github.com/chequanghuy)
-
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/dung.caophantien.9) 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/linkin.png">](https://www.linkedin.com/in/caophantiendung8/) 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCcGFgzsdLvnejZKDTkGk-EA) 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCojD5EOql0uo1dtbMkG8hrg) 
+    - Contact me helper:
+
+* **Chu Thanh Nhan** - *Develope and Operation* - [thanhnhan](https://github.com/nhanuit02)
+    - Contact me helper:
+
+* **Ly Hong Phong** - *Develope and Operation* - [phonghongs](https://github.com/phonghongs)
+
+* **Che Quang Huy** - *Operation* - [chequanghuy](https://github.com/chequanghuy)
+
 ## License
 CEEC - UIT
