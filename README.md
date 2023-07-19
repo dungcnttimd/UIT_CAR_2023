@@ -83,7 +83,7 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
 
 
 
-    - Youtube channel
+* Youtube channel
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCcGFgzsdLvnejZKDTkGk-EA)
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCojD5EOql0uo1dtbMkG8hrg)
 * **Chu Thanh Nhan** - *Develope and Operation* - [chequanghuy](https://github.com/nhanuit02)
