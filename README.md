@@ -79,7 +79,7 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
 
 * **Ly Hong Phong** - *Develope and Operation* - [phonghongs](https://github.com/phonghongs)
   
-* * **Chu Thanh Nhan** - *Develope and Operation* - [chequanghuy](https://github.com/  )
+* **Chu Thanh Nhan** - *Develope and Operation* - [chequanghuy](https://github.com/  )
 
 * **Che Quang Huy** - *Operation* - [chequanghuy](https://github.com/chequanghuy)
 
