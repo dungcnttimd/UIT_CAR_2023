@@ -78,6 +78,7 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
     - Contact me helper:
 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/dung.caophantien.9)
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/gmail.png">](dungcnttimd@gmail.com)
 * **Chu Thanh Nhan** - *Develope and Operation* - [chequanghuy](https://github.com/nhanuit02)
     - Contact me helper:
     - 
