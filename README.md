@@ -1,6 +1,11 @@
 # Phần mềm mô phỏng xe tự hành - UIT_CAR_RACING 2023 - UNITY 
 
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/Logo%20UIT%20-%20stroked.png">](https://www.facebook.com/UIT.Fanpage) 
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/LOGO%20CE.png">](https://www.facebook.com/ce.uit) 
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/CEEC_Logo%20(1).png">](https://www.facebook.com/Computer.Engineering.Embedded.Club) 
+
 Phầm mềm được sử dụng chính thức trong cuộc thi UIT CAR RACING - 2023
+
 Thông tin cuộc thi: [here](https://ceday.uit.edu.vn/uit-car-racing/)
 
 # Cài đặt phần mềm mô phỏng
