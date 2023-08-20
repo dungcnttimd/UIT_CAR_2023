@@ -87,7 +87,7 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
     - Contact me helper:
 
 * **Ly Hong Phong** - *Develope and Operation* - [phonghongs](https://github.com/phonghongs)
-
+* **Nguyen Anh Quoc** - *Develope* - [QuocAnhNguyenDL](https://github.com/QuocAnhNguyenDL)
 
 ## License
 CEEC - UIT
