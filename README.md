@@ -66,14 +66,41 @@ Cấu trúc Folder:
 
 
 
-* client.py:
 ```
-python code.py --ip <ip unity opened> --port <port unity opened in that ip>
+from uit_ce_ceec_uitcarracing2023 import uitcarracing
+car = uitcarracing()    #init car
+car.connect("127.0.0.1", 1111)
+
+car.help()
+```
+* code.py:
+```
+python code.py
 # Sử dụng để test giải thuật trên máy tính cá nhân
 ```
 
 
-# Sử dụng để chạy trên môi trường docker gửi cho BTC
+
+```
+from uit_ce_ceec_uitcarracing2023 import uitcarracing
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("--port", type=int, help="Specify the port number")
+parser.add_argument("--ip", type=str, help="Specify the port number")
+args = parser.parse_args()
+ip = args.ip
+port = args.port
+
+car = uitcarracing()    #init car
+car.connect(ip, port)
+
+car.help()
+```
+* code.py:
+```
+python code.py --ip <ip unity opened> --port <port unity opened in that ip>
+# Sử dụng để test giải thuật trên máy tính cá nhân
+```
 
 
 Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội nên code vào những phần mà đã gợi ý dưới đây
