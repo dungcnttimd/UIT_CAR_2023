@@ -46,9 +46,10 @@ Cấu trúc Folder:
 ----------------|<|<MapName>_Data|
 ----------------|<|<MapName>.x86_64|             (#)
 ----------------|<|UnityPlayer.so|
-----------------|Code|
---------------------|code.py|
---------------------|uit_ce_ceec_uitcarracing2023.so|
+------------|Code|
+----------------|code.py|
+----------------|uit_ce_ceec_uitcarracing2023.so|
+
 ------------|4Windows|
 ----------------|Map|
 --------------------|<MapName>|
@@ -94,16 +95,23 @@ Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội n
 
 ## Authors
 * **Cao Phan Tien Dung** - *Develope and Operation* - [dungcnttimd](https://github.com/dungcnttimd)
-     - Contact me helper 
+     - Contact me helper:
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/linkin.png">](https://www.linkedin.com/in/caophantiendung8) 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/dung.caophantien.9) 
 [<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/youtube.png">](https://www.youtube.com/channel/UCcGFgzsdLvnejZKDTkGk-EA) 
 
 
 * **Chu Thanh Nhan** - *Develope and Operation* - [thanhnhan](https://github.com/nhanuit02)
     - Contact me helper:
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/Thanh.Nhan.428204)
 
 * **Ly Hong Phong** - *Develope and Operation* - [phonghongs](https://github.com/phonghongs)
+    - Contact me helper:
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/hongphong.ly.7)
+
 * **Nguyen Anh Quoc** - *Develope* - [QuocAnhNguyenDL](https://github.com/QuocAnhNguyenDL)
+    - Contact me helper:
+[<img src="https://github.com/dungcnttimd/UIT_CAR_2023/blob/main/Introduction/icon/facebook.png">](https://www.facebook.com/profile.php?id=100039482056792)
 
 ## License
 CEEC - UIT
