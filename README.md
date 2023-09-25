@@ -65,7 +65,7 @@ Cấu trúc Folder:
 
 
 
-
+*
 ```
 from uit_ce_ceec_uitcarracing2023 import uitcarracing
 car = uitcarracing()    #init car
@@ -80,7 +80,7 @@ python code.py
 ```
 
 
-
+*
 ```
 from uit_ce_ceec_uitcarracing2023 import uitcarracing
 import argparse
