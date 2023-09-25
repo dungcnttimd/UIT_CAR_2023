@@ -37,29 +37,30 @@ pip install -r requirements.txt
 
 Sau khi cài đặt các thư viện cần thiết và có code giao tiếp vừa clone từ link git ở trên, ta bắt đầu vào chi tiết code
 
-Cấu trúc Folder:    
-                    |UIT_CAR_2023|
-                        |4Linux|
-                            |Map|
-                                |<MapName>|
-                                    |<MapName>_Data|
-                                    |<MapName>.x86_64|      (#)
-                                    |UnityPlayer.so|
-                            |Code|
-                                |code.py|
-                                |uit_ce_ceec_uitcarracing2023.so|
-                        |4Windows|
-                            |Map|
-                                |<MapName>|
-                                    |MonoBleedingEdge|
-                                    |<MapName>_Data|
-                                    |<MapName>.exe|         (#)
-                                    |UnityCrashHandler64.exe|
-                                    |UnityPlayer.dll|
-                            |Code|
-                                |code.py|
-                                |uit_ce_ceec_uitcarracing2023.so|
-                            
+Cấu trúc Folder:
+```
+----|UIT_CAR_2023|
+--------|4Linux|
+------------|Map|
+----------------|<MapName>|
+----------------|<|<MapName>_Data|
+----------------|<|<MapName>.x86_64|             (#)
+----------------|<|UnityPlayer.so|
+----------------|Code|
+--------------------|code.py|
+--------------------|uit_ce_ceec_uitcarracing2023.so|
+------------|4Windows|
+----------------|Map|
+--------------------|<MapName>|
+------------------------|MonoBleedingEdge|
+------------------------|<MapName>_Data|
+------------------------|<MapName>.exe|             (#)
+------------------------|UnityCrashHandler64.exe|
+------------------------|UnityPlayer.dll|
+----------------|Code|
+--------------------|code.py|
+--------------------|uit_ce_ceec_uitcarracing2023.so|
+```
 
 
 
@@ -72,7 +73,7 @@ python code.py --ip <ip unity opened> --port <port unity opened in that ip>
 
 
 # Sử dụng để chạy trên môi trường docker gửi cho BTC
-```
+
 
 Code này chứa mẫu giao tiếp với phần mềm mô phỏng, các đội nên code vào những phần mà đã gợi ý dưới đây
 
