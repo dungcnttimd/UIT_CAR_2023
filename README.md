@@ -8,8 +8,6 @@ Thông tin cuộc thi: [here](https://ceday.uit.edu.vn/uit-car-racing/)
 
 # Cài đặt phần mềm mô phỏng
 
-Link tải map: [here](https://    )
-
 
 Các bạn tải map về và giải nén sẽ thu đc 2 folder:
 
@@ -29,8 +27,8 @@ Các bạn tải map về và giải nén sẽ thu đc 2 folder:
 
 * python 3.7
 ```
-git clone https://github.com/phonghongs/Unity-UIT_Car.git
-cd /Unity-UIT_Car
+git clone https://github.com/dungcnttimd/UIT_CAR_2023.git
+cd /UIT_CAR_2023
 pip install -r requirements.txt
 ```
 
@@ -40,22 +38,39 @@ pip install -r requirements.txt
 Sau khi cài đặt các thư viện cần thiết và có code giao tiếp vừa clone từ link git ở trên, ta bắt đầu vào chi tiết code
 
 Cấu trúc Folder:    
-                    Code test Simulation|
+                    |UIT_CAR_2023|
+                        |4Linux|
+                            |Map|
+                                |<MapName>|
+                                    |<MapName>_Data|
+                                    |<MapName>.x86_64|      (#)
+                                    |UnityPlayer.so|
+                            |Code|
+                                |code.py|
+                                |uit_ce_ceec_uitcarracing2023.so|
+                        |4Windows|
+                            |Map|
+                                |<MapName>|
+                                    |MonoBleedingEdge|
+                                    |<MapName>_Data|
+                                    |<MapName>.exe|         (#)
+                                    |UnityCrashHandler64.exe|
+                                    |UnityPlayer.dll|
+                            |Code|
+                                |code.py|
+                                |uit_ce_ceec_uitcarracing2023.so|
+                            
 
-                        --------------------|Raw code|
-                                                -------|client.py
-                                                -------|client4docker.py
+
 
 
 * client.py:
 ```
-python client.py --ip <ip unity opened> --port <port unity opened in that ip>
+python code.py --ip <ip unity opened> --port <port unity opened in that ip>
 # Sử dụng để test giải thuật trên máy tính cá nhân
 ```
 
-* client4docker.py:
-```
-python client4docker.py --ip <ip unity opened> --port <port unity opened in that ip>
+
 # Sử dụng để chạy trên môi trường docker gửi cho BTC
 ```
 
